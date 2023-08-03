@@ -1,0 +1,43 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  background-color: black;
+  color: antiquewhite;
+  padding: 10px 10px;
+  font-variant: small-caps;
+}
+
+p {
+  text-align: justify;
+  padding-left: 5px;
+  margin-left: 5px;
+}
+
+#box1 {
+  padding: 15px 15px;
+  font-size: 14px;
+  border-left-style: solid ;
+  border-left-color: darkolivegreen;
+  border-left-width: 4px;
+  text-align: justify;
+}
+
+.icon1 {
+  background-image: url("./icons/checkicon.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+  list-style: none;
+  padding: 10px 20px;
+  line-height: 1px;
+}
+
+footer p {
+  background-color: black;
+  color: antiquewhite;
+  padding: 10px 10px;
+  text-align: center;
+  margin: 0px 0px;
+}
